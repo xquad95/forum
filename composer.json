@@ -16,8 +16,7 @@
 	"require": {
         "yiisoft/yii2": ">=2.0.6",
         "yiisoft/yii2-imagine": "~2.0.0",
-        "worstinme/yii2-uikit": "*",
-        "worstinme/yii2-jodit" : "*"
+        "worstinme/yii2-uikit": "*"
     },
 	"autoload": {
 		"psr-4": {
