@@ -1,5 +1,5 @@
 {
-	"name": "xquad95/forum",
+	"name": "xquad95/yii2-forum",
 	"description": "forum extension for yii 2",
 	"keywords": ["yii2", "forum"],
 	"type": "yii2-extension",
@@ -9,7 +9,7 @@
 	},
 	"authors": [
         {
-            "name": "xquad",
+            "name": "xquad95",
             "homepage" : "https://github.com/xquad95"
         }
 	],
@@ -20,7 +20,7 @@
     },
 	"autoload": {
 		"psr-4": {
-            "xquad\\forum\\": ""
+            "xquad95\\forum\\": ""
         }
 	}
 }
