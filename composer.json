@@ -1,16 +1,16 @@
 {
-	"name": "worstinme/yii2-forum",
+	"name": "xquad/forum",
 	"description": "forum extension for yii 2",
 	"keywords": ["yii2", "forum"],
 	"type": "yii2-extension",
 	"license": "MIT",
 	"support": {
-		"source": "https://github.com/worstinme/yii2-forum"
+		"source": "https://github.com/xquad95/forum"
 	},
 	"authors": [
         {
-            "name": "Evgeny Zakirov",
-            "homepage" : "https://github.com/worstinme"
+            "name": "xquad",
+            "homepage" : "https://github.com/xquad95"
         }
 	],
 	"require": {
